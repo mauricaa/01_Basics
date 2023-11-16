@@ -1,0 +1,27 @@
+.Aqua {
+    background-color: aqua;
+    height: 200px;
+}
+
+.Green {
+    background-color: green;
+    position: relative;
+    height: 300px;
+    width: 300px;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Purple {
+    background-color: purple;
+    position: absolute;
+right: 0px;
+bottom: 0px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
+
+
+
